@@ -1,0 +1,10 @@
+gluonts
+transformers~=4.30
+accelerate==0.33.0
+typer
+typer_config
+pyarrow
+tensorboard
+tensorboardX
+huggingface_hub
+safetensors
